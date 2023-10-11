@@ -1,0 +1,14 @@
+D:\С#\HelloConsole\bin\Debug\net7.0\HelloConsole.exe
+D:\С#\HelloConsole\bin\Debug\net7.0\HelloConsole.deps.json
+D:\С#\HelloConsole\bin\Debug\net7.0\HelloConsole.runtimeconfig.json
+D:\С#\HelloConsole\bin\Debug\net7.0\HelloConsole.dll
+D:\С#\HelloConsole\bin\Debug\net7.0\HelloConsole.pdb
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfoInputs.cache
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfo.cs
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.CoreCompileInputs.cache
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.dll
+D:\С#\HelloConsole\obj\Debug\net7.0\refint\HelloConsole.dll
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.pdb
+D:\С#\HelloConsole\obj\Debug\net7.0\HelloConsole.genruntimeconfig.cache
+D:\С#\HelloConsole\obj\Debug\net7.0\ref\HelloConsole.dll
